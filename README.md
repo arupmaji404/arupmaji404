@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arup Maji - @arupmaji404
 - 👀 I’m interested in Coding
-- 🌱 I’m currently work on Java, Hibernate, SpringBoot, Python, Machine Learning
+- 🌱 I’m currently working on Java, Hibernate, SpringBoot, Python, Machine Learning
 - 💞️ I’m looking to collaborate on Full Stack and Machine Learning related projects
 - 📫 How to reach me mail: arupmaji137@gmail.com linkedin: https://www.linkedin.com/in/arup-maji-22033218b/
 
